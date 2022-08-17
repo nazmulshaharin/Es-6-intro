@@ -16,5 +16,4 @@ if(numbers.indexOf(222) != -1){
 
 }
 if(numbers.includes(222)){
-  
 }

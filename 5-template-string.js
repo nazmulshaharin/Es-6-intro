@@ -22,5 +22,5 @@ console.log(fullNew);
 
 console.log(newSystem);
 console.log(newSystem2);
-//console.log(multiLine);
-//console.log(newMultiLine);
+console.log(multiLine);
+console.log(newMultiLine);

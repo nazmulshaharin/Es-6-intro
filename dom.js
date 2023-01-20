@@ -1,6 +1,11 @@
-document.getElementById('add-border').addEventListener('click', function(){
+/* document.getElementById('add-border').addEventListener('click', function(){
   const container = document.getElementById('friend-container');
   container.style.border = '4px solid red';
+}) */
+document.getElementById('add-border').addEventListener('click', function(){
+  const container = document.getElementById('friend-container');
+  container.style.border = '10px solid black';
+  container.style.padding = '15px';
 })
 
 function addBackgroundColor(){

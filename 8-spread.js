@@ -12,6 +12,6 @@ console.log(max, maxArray);
 //console.log(numbers2);
 
 //
-const numbers3 = [75, ...numbers, 50];
 numbers.push(600);
+const numbers3 = [75, ...numbers, 50];
 console.log(numbers3);

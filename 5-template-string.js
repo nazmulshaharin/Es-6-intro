@@ -20,7 +20,7 @@ const last = 'Hasan';
 const fullNew = `This person name is: ${first} ${last}. Has money ${friends.length * 500}. He lives in Dhaka.`;
 console.log(fullNew);
 
-//console.log(newSystem);
-//console.log(newSystem2);
-//console.log(multiLine);
+console.log(newSystem);
+console.log(newSystem2);
+console.log(multiLine);
 //console.log(newMultiLine);

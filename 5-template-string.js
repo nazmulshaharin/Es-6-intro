@@ -18,9 +18,9 @@ const newSystem2 = `<h3 class="friend-name">friend-${friends.length}</h3>`
 const first = 'mamun';
 const last = 'Hasan';
 const fullNew = `This person name is: ${first} ${last}. Has money ${friends.length * 500}. He lives in Dhaka.`;
-console.log(fullNew);
-
+//console.log(fullNew);
+//
 console.log(newSystem);
 console.log(newSystem2);
-console.log(multiLine);
+//console.log(multiLine);
 //console.log(newMultiLine);

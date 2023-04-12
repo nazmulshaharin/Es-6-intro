@@ -9,6 +9,11 @@ const mul = multiply(5, 3, 2);
 console.log(mul);
 
 //
+const now = (c, d, e) => c * d * e;
+const tday = now(2, 3, 4);
+console.log(tday);
+
+//
 const tenTimes = (num) => num * 10;
 const outPut = tenTimes(30);
 console.log(outPut);

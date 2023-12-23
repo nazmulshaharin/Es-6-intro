@@ -2,7 +2,7 @@
 
 function add(numb1, numb2 = 50){
   const total = numb1 + numb2;
-  return total
+  return total;
 }
 
 const numberValue = add(10);
